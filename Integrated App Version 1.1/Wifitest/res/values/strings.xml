@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wifitest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="WifiAccessPoints">Wifi Access Points</string>
+    <string name="title_activity_cell_info">CellInfo</string>
+    <string name="CellTowerInfo">Cell-Tower Info</string>
+    <string name="title_activity_gpsinfo">GPSInfo</string>
+    <string name="LandL">Latitude and Longitude Info</string>
+    <string name="title_activity_dbcheck">DBCheck</string>
+    <string name="DBCheck">DB Check</string>
+    <string name="Choose">Select Required Data</string>
+    <string name="Select">Enter Date and Time</string>
+    <string name="date">Enter date</string>
+    <string name="time">Enter time</string>
+    <string name="Fetch">Fetch Data</string>
+
+</resources>
